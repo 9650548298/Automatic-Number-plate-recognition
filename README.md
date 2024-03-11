@@ -1,26 +1,36 @@
-# automatic-number-plate-recognition-python-yolov8
+# Automatic-number-plate-recognition-python-yolov8
 ![Screenshot (5)](https://github.com/sagarjha265/Automatic-Number-plate-recognition/assets/67288575/dab909bb-07be-4890-baa9-003ecdc7953d)
 ![Screenshot (5)](https://github.com/sagarjha265/Automatic-Number-plate-recognition/assets/67288575/71dfd02d-e1cf-4491-910b-d839a5297c37)
 <p align="center">
 
 <a href="https://drive.google.com/file/d/1_keQZ4mSfzdE4Kv2pTu-lgzryArhVLpM/view?usp=drive_link">
-    <img width="600" src="https://drive.google.com/file/d/1rjZlO4l8RebV_lO8ec5wOte6UE3njM2R/view?usp=drive_link" alt="Watch the video">
     </br>Click for watching result : Automatic number plate recognition with Python, Yolov8 and EasyOCR !
 </a>
 </p>
 
-## data
+## ABOUT THE PROJECT
+This project implements an Automatic Number Plate Recognition (ANPR) system using Python and YOLOv8. The aim is to efficiently detect and recognize license plates from images and video streams in real-time. Leveraging the power of YOLOv8, a state-of-the-art object detection algorithm, our solution offers accurate and swift identification of vehicle license plates.
 
-The video I used in this tutorial can be downloaded [here](https://drive.google.com/file/d/12sBfgLICdQEnDSOkVFZiJuUE6d3BeanT/view?usp=sharing).
+## Key Features:
 
-## models
+Utilizes the YOLOv8 object detection algorithm for robust and real-time license plate detection.
+Python-based implementation for ease of understanding, modification, and integration into various applications.
 
 A Yolov8 pretrained model was used to detect vehicles.
 
-A licensed plate detector was used to detect license plates. The model was trained with Yolov8 using [this dataset](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4) and following this [step by step tutorial on how to train an object detector with Yolov8 on your custom data](https://github.com/computervisioneng/train-yolov8-custom-dataset-step-by-step-guide). 
 
-The trained model is available in my [Patreon](https://www.patreon.com/ComputerVisionEngineer).
+## Technology Used:
 
-## dependencies
+Programming Language:
 
-The sort module needs to be downloaded from [this repository](https://github.com/abewley/sort) as mentioned in the [video](https://youtu.be/fyJB1t0o0ms?t=1120).
+Python 3.x
+Deep Learning Framework:
+
+YOLOv8
+A powerful and efficient real-time object detection algorithm.
+Libraries and Dependencies:
+
+OpenCV
+Used for image processing and computer vision tasks.
+NumPy
+Essential for numerical operations and array manipulations.
