@@ -1,10 +1,11 @@
-
 # automatic-number-plate-recognition-python-yolov8
-
+![Screenshot (5)](https://github.com/sagarjha265/Automatic-Number-plate-recognition/assets/67288575/dab909bb-07be-4890-baa9-003ecdc7953d)
+![Screenshot (5)](https://github.com/sagarjha265/Automatic-Number-plate-recognition/assets/67288575/71dfd02d-e1cf-4491-910b-d839a5297c37)
 <p align="center">
+
 <a href="https://drive.google.com/file/d/1_keQZ4mSfzdE4Kv2pTu-lgzryArhVLpM/view?usp=drive_link">
     <img width="600" src="https://drive.google.com/file/d/1rjZlO4l8RebV_lO8ec5wOte6UE3njM2R/view?usp=drive_link" alt="Watch the video">
-    </br>Watch on YouTube: Automatic number plate recognition with Python, Yolov8 and EasyOCR !
+    </br>Click for watching result : Automatic number plate recognition with Python, Yolov8 and EasyOCR !
 </a>
 </p>
 
